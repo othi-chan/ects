@@ -1,2 +1,1 @@
-# ects
-Extendable Computer Testing System
+# Extendable Computer Testing System
